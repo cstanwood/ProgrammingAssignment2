@@ -3,7 +3,7 @@
 ## takes a long time to solve.
  
 ## This function creates a "matrix" that can cache its inverse.
-## Its input parameter is a single matrix
+## Its input parameter is a single matrix.
 ## It returns a list consisting of four functions that set and get the matrix,
 ## and which set and get the inverse.
 
